@@ -1,0 +1,15 @@
+D:\projects\sharp\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\projects\sharp\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\projects\sharp\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\App.g.cs
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+D:\projects\sharp\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
